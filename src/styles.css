@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-xxl/dist/css/bootstrap.min.css";  
+@import "~@fortawesome/fontawesome-free/css/all.css"; 
+
+@import "./assets/css/custom.scss";
+body{ 
+    margin: 0;
+    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
